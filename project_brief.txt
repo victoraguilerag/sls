@@ -1,0 +1,113 @@
+[Menú] 
+  > secciones: home / quienes somos / formaciones y cursos 
+
+
+HOME 
+
+[Hero]
+
+H1: Slickline Services 
+H2: Soluciones de muestreo y análisis para la industria petrolera.
+
+[CTA boton]  Contáctanos   
+
+
+[Section 1]  (cards desplegables - texto)
+
+H2: Conoce nuestros servicios 
+
+H3: Guaya Fina
+p: Servicio realizado utilizando un cable de acero liso para bajar herramientas o dispositivos de medición a un pozo para diagnosticar, evaluar y optimizar.
+
+[CTA botón desplegable] Aplicaciones de la Guaya Fina
+
+Chequeo mecánico / fondo: Determinación de las condiciones del pozo y arena productora, verificación del estado del tubing. Profundidad accesible al pozo.
+Rediseño: Asentamiento o retiro de dispositivos, herramientas especiales, válvulas de gas lift o válvulas ciegas.
+Limpieza: Remoción de obstrucciones de asfáltenos, parafinas, arena y / o escala a través del empleo de las herramientas adecuadas.
+Completación: Colocación de test tool o tapón para el asentamiento de las empacaduras.
+Toma de muestras: Captura de muestras a profundidad específica, convencional y compensada.
+
+H3: Muestreo y laboratorio
+p: Servicio de toma de muestra desde el fondo del pozo hasta superficie, recombinaciones y análisis de laboratorio.
+
+[CTA botón desplegable] Aplicaciones del Muestreo y Laboratorio
+
+BHS Compensado: Muestras compensadas inalteradas para análisis termodinámicos, tales como: PVT, Asfáltenos, Parafinas, etc.
+BHS Convencional: Muestras tomadas en fondo y recolectadas de forma despresurizada para análisis fisicoquímicos y geoquímicos.
+Muestro de Separador: Muestras de superficie para recombinación física y análisis PVT completos y/o medida de las propiedades volumétricas a condiciones de fondo y superficie.
+Análisis Composicional: Muestras de superficie para análisis composicional de gas y líquido por cromatografía de gases, bajo y alto RGP , evaluaciones químicas a P&T.
+Análisis PVT convencional: Análisis PVT completo, muestras sobre muestras de fondo o recombinadas de fluidos de bajo y alto RGP , evaluaciones químicas a P&T.
+
+H3: Bombeo
+p: Servicio de bombeo en frío para transferencia de fluido o inyección a pozo para múltiples aplicaciones.
+
+[CTA botón desplegable] Aplicaciones del Bombeo
+
+Transferencia de fluido: Servicio de bombeo para la transferencia de fluido.
+Control de pozo: Servicios de bombeo para la inyección a pozo de fluido en frío para su pozo.
+Estimulación: Servicios de bombeo para la inyección de química a pozo para su estimulación.
+Limpieza: Servicios de bombeo para la inyección de química a pozo para su Limpieza.
+Deposición de fluido: Servicios de bombeo para la inyección de fluido para su deposición en pozos.
+
+
+
+REFE iconos:
+
+
+
+
+[Section 2] (banner para descargable) 
+
+H2: Descubre todas las aplicaciones y beneficios de nuestras soluciones 
+
+[CTA boton] Descargar brochure completo
+
+
+[Section 3] (cards - imágenes + texto) 
+
+H2: Así son nuestros equipos de trabajo
+
+H3: Guaya fina 
+p: 
+• Drive winche hidráulico 
+• Carrete con 24.000 pies de longitud de guaya de acero (0.125 ”) monofilamento para ambiente ácido 
+• BOP (10.000 lpc) y set de herramientas
+
+H3: Grúa 
+p: Grúas telescópica (52.000 lbs)
+
+H3: Bombeo 
+p:  
+• Bomba de pistón triple con accionamiento de motor diésel. 
+• Presiones de hasta 2340 psi 
+• Flujo de 6970 BPD
+
+H3: Muestreo y laboratorio
+p: 
+• Cilindros Muestreadores de gas y líquidos.
+• Celda Model 3000 PVT Phase Behavior System
+• Cromatógrafo
+• Celdas de recombinación
+• Viscosímetro presurizado, entre otros.
+ 
+
+REFE fotos equipos:
+
+
+[Section 4] (banner texto + final cta)
+
+H2: Confía en los expertos
+H3: SLS C.A. integra profesionales con más de 20 años de experiencia en la cadena de valor del sector de petróleo y gas para brindar servicios que contribuyan a su productividad.
+
+Agregamos valor al negocio de cada cliente, garantizando la seguridad, la eficiencia y la calidad.
+
+[CTA boton]  Contáctanos   
+
+QUIÉNES SOMOS
+
+[Section 1] (titulo + texto)
+
+H2: Profesionales con más de 20 años de experiencia
+p: Nuestro equipo está conformado por profesionales con experiencia comprobada en el sector de petróleo y gas del país, especialistas que conocen los desafíos del mercado local y que implementan los mas altos estandares internacionales. 
+
+\SLS C.A. integra profesionales con más de 20años de experiencia en la cadena de valor delsector de petróleo y gas para brindar serviciosque contribuyan a su productividad. Nuestra experiencia adquirida en el campopetrolero y gasífero nacional y aliadoscomerciales, nos han motivado a ofrecersoluciones integrales que agreguen valor ydinamicen oportunamente el negocio del cliente,de manera segura, eficiente y con calidad
