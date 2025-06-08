@@ -334,6 +334,8 @@ p {
     width: 98vw;
     margin-left: 1vw;
     border-radius: 10px;
+    opacity: 0;
+    animation: heroBackgroundFadeIn 2s ease-out 0.2s forwards;
 }
 
 .hero-overlay {
@@ -429,6 +431,22 @@ p {
     .illustration-text {
         margin-top: 64px;
         margin-bottom: 64px;
+    }
+
+    .hero-content {
+        animation: fadeInUp 1.5s ease-out 0s both;
+    }
+    
+    .hero-logo {
+        animation: titleSlideIn 2s ease-out 0s both;
+    }
+
+    .hero-subtitle {
+        animation: fadeInUp 1.5s ease-out 0s both;
+    }
+
+    .btn-animated {
+        animation: fadeInUp 1s ease-out 0.5s both;
     }
 }
 
@@ -1413,5 +1431,14 @@ p {
     100% {
         opacity: 1;
         transform: translateY(0);
+    }
+}
+
+@keyframes heroBackgroundFadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
     }
 } 
